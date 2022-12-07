@@ -16,7 +16,7 @@ blog({
     { title: "GitHub", url: "https://github.com/geauxweisbeck4" },
     { title: "Twitter", url: "https://twitter.com/geauxweisbeck4" },
     { title: "Homepage", url: "https://geauxweisbeck4.dev" },
-    { title: "Mastodon", url: "https://fosstodon.org/@GeauxWeisbeck4" },
+    { title: "Mastodon.social", url: "https://fosstodon.org/@GeauxWeisbeck4" },
   ],
   lang: "en",
   dateStyle: "long",
