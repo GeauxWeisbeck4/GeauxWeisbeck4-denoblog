@@ -1,6 +1,8 @@
 ---
 title: Welcome to the GeauxWeisbeck4.dev Blog
+author: Andrew Weisbeck
 publish_date: 2022-10-15
+abstract: Check out my new blog, forked from the Deno Blog repo!
 ---
 
 # Welcome to the Blog Page for GeauxWeisbeck4.dev!

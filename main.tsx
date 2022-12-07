@@ -1,10 +1,12 @@
 /** @jsx h */
 
-import blog, { ga, redirects, h } from "blog";
+import blog, { ga, h, redirects } from "blog";
 
 blog({
-  title: "Geaux Blog",
-  description: "The Denosaur is named Judah - just like my favorite stuffed dinosaur toy when I was young. Everything else on this page is my own writing. I hope you find it mentally stimulating, witty, and wholesome. All posts are of my own opinion, and do not represent the viewpoints of anybody else.",
+  author: "Andrew Weisbeck",
+  title: "GeauxWeisbeck4.dev Blog",
+  description:
+    "This blog is by Andrew Weisbeck and is the official GeauxWeisbeck4.dev blog. I hope you find it mentally stimulating, witty, and wholesome. All posts are of my own opinion, and do not represent the viewpoints of anybody else.",
   // header: <header>Your custom header</header>,
   // section: <section>Your custom section</section>,
   // footer: <footer>Your custom footer</footer>,
@@ -14,19 +16,11 @@ blog({
     { title: "GitHub", url: "https://github.com/geauxweisbeck4" },
     { title: "Twitter", url: "https://twitter.com/geauxweisbeck4" },
     { title: "Homepage", url: "https://geauxweisbeck4.dev" },
+    { title: "Mastodon", url: "https://fosstodon.org/@GeauxWeisbeck4" },
   ],
-  author: "Andrew Weisbeck",
-
-  // middlewares: [
-
-    // If you want to set up Google Analytics, paste your GA key here.
-    // ga("UA-XXXXXXXX-X"),
-
-    // If you want to provide some redirections, you can specify them here,
-    // pathname specified in a key will redirect to pathname in the value.
-    // redirects({
-    //  "/hello_world.html": "/hello_world",
-    // }),
-
-  // ]
-})
+  lang: "en",
+  dateStyle: "long",
+  middlewares: [
+    ga("UA-221895221-2"),
+  ],
+});

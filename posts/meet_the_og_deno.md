@@ -1,6 +1,8 @@
 ---
 title: Meet the OG Deno
+author: Andrew Weisbeck
 publish_date: 2022-10-29
+abstract: Who is the OG Deno? Read this post to learn more.
 ---
 
 # Introducing the OG Deno
