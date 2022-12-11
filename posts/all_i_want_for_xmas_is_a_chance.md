@@ -6,6 +6,7 @@ abstract: I was fired over a year ago and I still have struggled to find a job t
 ---
 
 # All I Want for Christmas is a Chance
+![GeauxWeisbe4.dev Awesome Web Developer](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1670070683/GEAUXWEISBECK42_stysnr.png)
 
 So I have really struggled to find work since I was fired back on November 22, 2021 for a misunderstanding
 that ended up getting fixed anyways. It has been a very challenging time for me and my partner as we have 

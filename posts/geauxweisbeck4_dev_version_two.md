@@ -1,11 +1,12 @@
 ---
-title: GeauxWeisbeck.dev Version Two
+title: GeauxWeisbeck4.dev Version Two
 author: Andrew Weisbeck 
 publish_date: 2022-12-07
 abastract: I just deployed my personal portfolio website, GeauxWeisbeck4.dev Version 2.0!
 ---
 
 # Introducing GeauxWeisbeck4.dev Version 2.0!
+![GeauxWeisbeck4.dev Version 2](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1670739105/geauxweisbeck4version2_zixpq0.png)
 
 Well I've been meaning to make this happen for some time, but I can finally
 announce it - GeauxWeisbeck4.dev Version Two is finally live! Yes, I actually
