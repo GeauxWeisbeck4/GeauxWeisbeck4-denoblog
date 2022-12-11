@@ -6,6 +6,7 @@ abastract: I just deployed my personal portfolio website, GeauxWeisbeck4.dev Ver
 ---
 
 # Introducing GeauxWeisbeck4.dev Version 2.0!
+![My new website](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1670739105/geauxweisbeck4version2_zixpq0.png)
 
 Well I've been meaning to make this happen for some time, but I can finally
 announce it - GeauxWeisbeck4.dev Version Two is finally live! Yes, I actually

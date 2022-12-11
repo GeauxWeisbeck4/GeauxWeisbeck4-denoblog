@@ -6,6 +6,7 @@ abstract: Check out my new blog, forked from the Deno Blog repo!
 ---
 
 # Welcome to the Blog Page for GeauxWeisbeck4.dev!
+![GeauxWeisbeck4.dev Blog](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1670070683/GEAUXWEISBECK4logo4_qfksgg.png)
 
 I'm excited to announce that GeauxWeisbeck4.dev now will have it's own official blog page while [andrewweisbeck.blog](https://andrewweisbeck.blog) will now be hosted as its own separate website. This is exciting for a few reasons:
  - This blog and the new Geauxeisbeck4.dev website are both created with Deno and the website features the Fresh framework!
