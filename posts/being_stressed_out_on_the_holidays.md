@@ -1,7 +1,7 @@
 ---
-title: Being Stressedut on th  Holidays
-autr: Andre  Weisbeck
-puish_date:  022-12-17
+title: Being Stressed out on the Holidays
+author: Andrew  Weisbeck
+publish_date:  022-12-17
 abstract: Umm this is a different kind of stress than you probably think about.
 ---
 
