@@ -1,6 +1,7 @@
 /** @jsx h */
 
 import blog, { ga, h, redirects } from "blog";
+import { bgBlack, white } from "https://deno.land/std@0.118.0/fmt/colors.ts";
 
 blog({
   title: "GeauxWeisbeck4.dev Blog",
@@ -16,7 +17,7 @@ blog({
     { title: "GitHub", url: "https://github.com/geauxweisbeck4" },
     { title: "Twitter", url: "https://twitter.com/geauxweisbeck4" },
     { title: "Homepage", url: "https://geauxweisbeck4.dev" },
-    { title: "Mastodon", url: "https://fosstodon.org/@GeauxWeisbeck4" },
+    { title: "Mastodon.social", url: "https://fosstodon.org/@GeauxWeisbeck4" },
   ],
   middlewares: [
     ga("UA-221895221-2"),

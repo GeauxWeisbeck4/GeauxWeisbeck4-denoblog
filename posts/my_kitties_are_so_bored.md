@@ -7,7 +7,11 @@ abstract: My cats are so bored I think they just might try to eat me.
 
 # My Kitties Are So Bored
 
+<<<<<<< HEAD
 ![Zubie and Beaux](static/beauxzubie.png)
+=======
+![Zubie and Beaux](https://res.cloudinary.com/tar-heel-dev-studio/image/upload/v1671604074/beauxzubie_1_blscq8.png)
+>>>>>>> 85ac2b7d5813110ac50b68736d7e230d607b8557
 
 I love those pictures of my kitties, Zubie (Zulu) and Beaux-Beaux (Beaux - yes
 it's Bo, written in Cajun-French). To say those pictures are worth a thousand
