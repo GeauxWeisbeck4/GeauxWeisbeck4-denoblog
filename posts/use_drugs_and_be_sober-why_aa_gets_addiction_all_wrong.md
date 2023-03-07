@@ -1,7 +1,8 @@
 ---
 title: Use Drugs and Be Sober - Why AA Gets Addiction All Wrong
-published_at: 2023-03-05T14:00:00.00z
-snippet: We must expand our definition of sobriety or we risk leaving addicts behind
+author: Andrew Weisbeck
+publish_date: 2023-03-06
+abstract: We can save lives if we stop kidding ourselves and thinking that everybody needs to follow the same prescription.
 ---
 ![brooke-cagle-oTweoxMKdkA-unsplash](https://user-images.githubusercontent.com/87398426/223347630-17dee8bc-7721-46e4-8318-200c9fab02f0.jpg)
 
